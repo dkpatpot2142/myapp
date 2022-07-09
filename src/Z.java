@@ -1,3 +1,3 @@
 public class Z{
-    int zero = 1;
+    int zero = 0;
 }
